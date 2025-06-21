@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: reudcehunger
+Specification-Vendor: Masonhades
+Specification-Version: 1
+Implementation-Title: reudcehunger
+Implementation-Version: 0.01
+Implementation-Vendor: Masonhades
+Implementation-Timestamp: 2025-06-21T21:34:07+0600
+MixinConfigs: reudcehunger.mixins.json
+
