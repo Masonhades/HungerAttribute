@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reducehunger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reducehunger.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reudcehunger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/reudcehunger.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reudcehunger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reudcehunger.main.iml" />
     </modules>
   </component>
 </project>

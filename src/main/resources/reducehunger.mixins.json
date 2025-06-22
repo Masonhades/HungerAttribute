@@ -1,9 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "me.Masonhades.reudcehunger.mixin",
+  "package": "me.Masonhades.reducehunger.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "reudcehunger.refmap.json",
+  "refmap": "reducehunger.refmap.json",
   "mixins": [
     "PlayerMixin"
   ],

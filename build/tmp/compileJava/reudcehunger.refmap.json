@@ -1,21 +1,13 @@
 {
   "mappings": {
-    "me/Masonhades/reudcehunger/mixin/FoodDataMixin": {
-      "addExhaustion": "Lnet/minecraft/world/food/FoodData;m_38703_(F)V",
-      "Lnet/minecraft/world/food/FoodData;exhaustionLevel:F": "Lnet/minecraft/world/food/FoodData;f_38698_:F"
-    },
-    "me/Masonhades/reudcehunger/mixin/PlayerMixin": {
+    "me/Masonhades/reducehunger/mixin/PlayerMixin": {
       "Lnet/minecraft/world/food/FoodData;addExhaustion(F)V": "Lnet/minecraft/world/food/FoodData;m_38703_(F)V",
       "causeFoodExhaustion": "Lnet/minecraft/world/entity/player/Player;m_36399_(F)V"
     }
   },
   "data": {
     "searge": {
-      "me/Masonhades/reudcehunger/mixin/FoodDataMixin": {
-        "addExhaustion": "Lnet/minecraft/world/food/FoodData;m_38703_(F)V",
-        "Lnet/minecraft/world/food/FoodData;exhaustionLevel:F": "Lnet/minecraft/world/food/FoodData;f_38698_:F"
-      },
-      "me/Masonhades/reudcehunger/mixin/PlayerMixin": {
+      "me/Masonhades/reducehunger/mixin/PlayerMixin": {
         "Lnet/minecraft/world/food/FoodData;addExhaustion(F)V": "Lnet/minecraft/world/food/FoodData;m_38703_(F)V",
         "causeFoodExhaustion": "Lnet/minecraft/world/entity/player/Player;m_36399_(F)V"
       }

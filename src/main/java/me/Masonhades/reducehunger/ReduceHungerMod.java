@@ -9,7 +9,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 public class ReduceHungerMod {
 
 
-    public static final String MODID = "reudcehunger";
+    public static final String MODID = "reducehunger";
     public ReduceHungerMod() {
 
         IEventBus modEnentBus = FMLJavaModLoadingContext.get().getModEventBus();
