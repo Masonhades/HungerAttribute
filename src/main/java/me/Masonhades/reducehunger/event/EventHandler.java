@@ -1,7 +1,7 @@
 package me.Masonhades.reducehunger.event;
 
 
-import me.Masonhades.reducehunger.ModAttributes;
+import me.Masonhades.reducehunger.attribute.ModAttributes;
 import me.Masonhades.reducehunger.ReduceHungerMod;
 import net.minecraft.world.entity.EntityType;
 import net.minecraftforge.event.entity.EntityAttributeModificationEvent;

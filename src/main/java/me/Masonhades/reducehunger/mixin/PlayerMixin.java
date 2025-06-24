@@ -1,6 +1,6 @@
 package me.Masonhades.reducehunger.mixin;
 
-import me.Masonhades.reducehunger.ModAttributes;
+import me.Masonhades.reducehunger.attribute.ModAttributes;
 import net.minecraft.world.entity.player.Player;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.ModifyArg;
