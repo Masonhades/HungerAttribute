@@ -1,4 +1,4 @@
-package me.Masonhades.reducehunger;
+package me.Masonhades.hungerattribute;
 
 import net.minecraft.world.entity.player.Player;
 

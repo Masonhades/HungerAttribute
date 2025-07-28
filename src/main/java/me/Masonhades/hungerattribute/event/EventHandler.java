@@ -1,15 +1,15 @@
-package me.Masonhades.reducehunger.event;
+package me.Masonhades.hungerattribute.event;
 
 
-import me.Masonhades.reducehunger.attribute.ModAttributes;
-import me.Masonhades.reducehunger.ReduceHungerMod;
+import me.Masonhades.hungerattribute.HungerAttributeMod;
+import me.Masonhades.hungerattribute.attribute.ModAttributes;
 import net.minecraft.world.entity.EntityType;
 import net.minecraftforge.event.entity.EntityAttributeModificationEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 
 
-@Mod.EventBusSubscriber(modid = ReduceHungerMod.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
+@Mod.EventBusSubscriber(modid = HungerAttributeMod.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class EventHandler {
 
     @SubscribeEvent
